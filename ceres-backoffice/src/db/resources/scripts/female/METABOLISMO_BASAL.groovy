@@ -1,0 +1,2 @@
+(TAXA_DE_ATIVIDADE * (655D + ((9.6D * PESO) + (1.8D * ALTURA) - (4.7D * IDADE))))
+

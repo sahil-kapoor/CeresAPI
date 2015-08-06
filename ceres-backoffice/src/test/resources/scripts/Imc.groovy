@@ -1,0 +1,1 @@
+PESO / Math.pow((ALTURA / 100), 2);

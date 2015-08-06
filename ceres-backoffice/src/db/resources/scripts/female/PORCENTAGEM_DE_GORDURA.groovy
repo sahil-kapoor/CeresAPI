@@ -1,0 +1,4 @@
+if (COM_ADIPOMETRO)
+    1.1665D - 0.0706D * Math.log10(SUBESCAPULAR + SUPRA_ILIACA + COXA)
+else
+    495 / (1.0324 - 0.19077 * (Math.log10(CINTURA - PESCOCO)) + 0.15456 * Math.log10(ALTURA)) - 450

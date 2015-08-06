@@ -1,0 +1,15 @@
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Cereais e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Verduras, hortaliças e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Frutas e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Gorduras e óleos');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Pescados e frutos do mar');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Carnes e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Leite e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Bebidas (alcoólicas e não alcoólicas)');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Ovos e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Produtos açucarados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Miscelâneas');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Outros alimentos industrializados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Alimentos preparados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Leguminosas e derivados');
+INSERT INTO FOOD_CATEGORY (NAME) VALUES ('Nozes e sementes');
